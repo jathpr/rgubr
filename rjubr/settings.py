@@ -25,7 +25,7 @@ SECRET_KEY = 'vzgcvhohw4zb(qfizebo+2h5flfv0ivi1e#qvwrm2ems773vs*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jathpr.pythonanywhere.com', '192.168.1.2', '192.168.1.3', '192.168.1.4', '192.168.1.5', '192.168.1.6', '192.168.1.7', '127.0.0.1', 'localhost']
 
 
 # Application definition
