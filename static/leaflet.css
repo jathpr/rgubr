@@ -1,10 +1,12 @@
 /* required styles */
 .pipa {
 	color: #00ff66;
-	
+	 background-color: yellow;
 	font-size: 40px;
 }
-
+h2	{
+	background-color: #00f;
+}
 
 .leaflet-pane,
 .leaflet-tile,
