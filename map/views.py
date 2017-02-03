@@ -1,3 +1,5 @@
 from django.shortcuts import render
+from .models import Article
 
-# Create your views here.
+def map_prev(request):
+    return render(request, 'map/map_prev.html', {})#'articles':article
